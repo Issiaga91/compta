@@ -1,0 +1,20 @@
+# Fichiers de dépendances générés par Composer
+/vendor/
+composer.lock
+
+# Fichier d'environnement contenant les mots de passe et clés API
+.env
+.env.local
+.env.*.local
+
+# Fichiers de log
+*.log
+logs/
+
+# Fichiers de cache et temporaires
+/cache/
+/temp/
+
+# Fichiers de configuration des éditeurs
+.vscode/
+.idea/
